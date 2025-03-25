@@ -1,0 +1,44 @@
+{
+  "testimonials": [
+    {
+      "id": "1",
+      "author": {
+        "name": "Rizky",
+        "avatar": "/testimonials/avatar1.png"
+      },
+      "content": "Desain yang dibuat sangat bagus dan sesuai dengan keinginan. Prosesnya juga cepat!",
+      "role": "Content Creator",
+      "timestamp": "2024-03-15"
+    },
+    {
+      "id": "2",
+      "author": {
+        "name": "Budi",
+        "avatar": "/testimonials/avatar2.png"
+      },
+      "content": "Hasil thumbnailnya keren banget, view YouTube gw naik drastis. Thanks bang!",
+      "role": "YouTuber",
+      "timestamp": "2024-03-14"
+    },
+    {
+      "id": "3",
+      "author": {
+        "name": "Dewi",
+        "avatar": "/testimonials/avatar3.png"
+      },
+      "content": "Banner untuk stream sangat membantu dan terlihat profesional. Recommended!",
+      "role": "Twitch Streamer",
+      "timestamp": "2024-03-13"
+    },
+    {
+      "id": "4",
+      "author": {
+        "name": "Andi",
+        "avatar": "/testimonials/avatar4.png"
+      },
+      "content": "Pelayanannya ramah, revisi cepat ditanggapi. Puas dengan hasilnya!",
+      "role": "Small Business Owner",
+      "timestamp": "2024-03-12"
+    }
+  ]
+} 
