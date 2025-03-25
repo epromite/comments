@@ -31,7 +31,57 @@
       "timestamp": "2024-03-13"
     },
     {
-      "id": "4",
+      "id": "5",
+      "author": {
+        "name": "Rizky",
+        "avatar": "/testimonials/avatar5.png"
+      },
+      "content": "Logo yang dibuat sangat unik dan mencerminkan brand saya dengan baik.",
+      "role": "Graphic Designer",
+      "timestamp": "2024-03-16"
+    },
+    {
+      "id": "6",
+      "author": {
+        "name": "Sari",
+        "avatar": "/testimonials/avatar6.png"
+      },
+      "content": "Thumbnail yang dibuat sangat eye-catching dan menarik perhatian penonton.",
+      "role": "YouTube Editor",
+      "timestamp": "2024-03-17"
+    },
+    {
+      "id": "7",
+      "author": {
+        "name": "Budi",
+        "avatar": "/testimonials/avatar7.png"
+      },
+      "content": "Sangat puas dengan hasil desainnya, benar-benar berkualitas tinggi!",
+      "role": "Marketing Specialist",
+      "timestamp": "2024-03-18"
+    },
+    {
+      "id": "8",
+      "author": {
+        "name": "Lina",
+        "avatar": "/testimonials/avatar8.png"
+      },
+      "content": "Desainnya elegan dan sesuai dengan branding yang saya inginkan!",
+      "role": "Entrepreneur",
+      "timestamp": "2024-03-19"
+    },
+    {
+      "id": "9",
+      "author": {
+        "name": "Yusuf",
+        "avatar": "/testimonials/avatar9.png"
+      },
+      "content": "Saya sangat terbantu dengan jasa desainnya, hasilnya sangat memuaskan!",
+      "role": "Business Owner",
+      "timestamp": "2024-03-20"
+    },
+    {
+      "id": "10",
       "author": {
         "name": "Andi",
         "avatar": "/testimonials/avatar4.png"
@@ -41,4 +91,4 @@
       "timestamp": "2024-03-12"
     }
   ]
-} 
+}
